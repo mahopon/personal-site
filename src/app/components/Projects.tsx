@@ -10,6 +10,13 @@ export function Projects() {
       tags: ['Docker', 'GitLab', 'Kubernetes', 'Kafka', 'Wireguard', 'CoreDNS', 'Traefik'],
     },
     {
+      title: 'Agent(?)',
+      description: 'A learning project to make use of local LLM models to understand how I can use LLMs without frameworks.',
+      image: 'https://images.unsplash.com/photo-1603985585179-3d71c35a537c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wbWVudCUyMHdvcmtzcGFjZXxlbnwxfHx8fDE3NzM0OTY1MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+      tags: ['Go'],
+      github: 'https://github.com/mahopon/agent',
+    },
+    {
       title: 'SmolEarl',
       description: 'An URL shortener API',
       image: 'https://images.unsplash.com/photo-1603985585179-3d71c35a537c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wbWVudCUyMHdvcmtzcGFjZXxlbnwxfHx8fDE3NzM0OTY1MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080',
